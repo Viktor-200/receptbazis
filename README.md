@@ -1,2 +1,1 @@
-A Receptbázis projekt repója.
-Tanulj, főzz, interaktálj más felhasználókkal! Receptbázis.
+A Receptbázis projekt repója. Tanulj, főzz, interaktálj más felhasználókkal!
